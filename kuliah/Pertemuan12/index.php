@@ -1,12 +1,4 @@
-<!-- 
-    NAMA : Muhamad Rizky
-    NPM : 203040043
-    Kelas : B
-    Github : https://github.com/MuhamadRizky14
-    MataKuliah : Pemrograman Web
- -->
- 
- <?php
+<?php
     require 'php/functions.php';
     $mahasiswa = query("SELECT * FROM mahasiswa")
 ?>
